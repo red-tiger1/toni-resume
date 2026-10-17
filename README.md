@@ -1,25 +1,23 @@
-# Toni Ladeji — Resume Website
+# Toni Ladeji - Resume Website
 
-This is a simple personal resume/profile website made with HTML and CSS.
+## About
+This is a personal resume website for Toni Ladeji. It shares my education, work experience, school activities, volunteer experience, and certifications.
+
+## What the Website Does
+- Shows a short introduction about me.
+- Lists my high school education and GPA.
+- Describes my lifeguard job and leadership roles.
+- Includes volunteer experience and certifications.
+- Uses navigation links to move to different sections of the page.
+
+## Built With
+- HTML to organize the content.
+- CSS to add colors, spacing, and layout.
+- GitHub Pages to publish the website online.
 
 ## Files
-- `index.html` contains the website content and sections.
-- `style.css` controls the colors, spacing, cards, layout, and mobile design.
+- `index.html` - the content and structure of the website.
+- `style.css` - the design and appearance of the website.
 
-## How to view it
-Open `index.html` in a web browser.
-
-## Publish with GitHub Pages
-1. Create a GitHub account at https://github.com if you do not already have one.
-2. Create a new public repository. A repository name such as `toni-resume` works.
-3. Upload `index.html`, `style.css`, and `README.md` to the repository's main branch.
-4. Open the repository's **Settings** tab.
-5. Select **Pages** in the left sidebar.
-6. Under **Build and deployment**, choose **Deploy from a branch**.
-7. Choose branch **main** and folder **/(root)**, then click **Save**.
-8. Wait a few minutes. GitHub Pages will show the website address in the Pages section.
-
-If you change the website later, edit the files and commit the changes. GitHub Pages will update the published site.
-
-## Customizing
-You can change the text in `index.html`. Change colors and layout in `style.css`.
+## View the Website
+After GitHub Pages is enabled for the repository, the published website link can be found in the repository's **Settings > Pages** section.
