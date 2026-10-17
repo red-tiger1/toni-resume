@@ -1,7 +1,7 @@
 # Toni Ladeji - Resume Website
 
 ## About
-This is a personal resume website for Toni Ladeji. It shares my education, work experience, school activities, volunteer experience, and certifications.
+This is my personal resume website(Toni Ladeji). It shares my education, work experience, school activities, volunteer experience, and certifications.
 
 ## What the Website Does
 - Shows a short introduction about me.
